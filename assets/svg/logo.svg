@@ -1,0 +1,31 @@
+<svg class="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 202 202">
+  <defs>
+    <clipPath id="clip-path" transform="translate(0 0)">
+      <path d="M0,101A101,101,0,1,0,101,0,101,101,0,0,0,0,101" style="fill: none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="-438" cy="1054.54" r="1" gradientTransform="matrix(101, 0, 0, -101, 44339.47, 106609.38)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.62" stop-color="#fff"/>
+      <stop offset="0.73" stop-color="#fcfcfb"/>
+      <stop offset="0.82" stop-color="#f1f1f1"/>
+      <stop offset="0.91" stop-color="#e0dfde"/>
+      <stop offset="1" stop-color="#c7c6c5"/>
+    </radialGradient>
+    <clipPath id="clip-path-2" transform="translate(0 0)">
+      <rect x="4.22" y="4.22" width="193.56" height="193.57" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>logo</title>
+  <g style="isolation: isolate">
+    <g id="Layer_1" data-name="Layer 1">
+      <g style="clip-path: url(#clip-path)">
+        <rect width="202" height="202" style="fill: url(#radial-gradient)"/>
+        <g style="mix-blend-mode: multiply">
+          <g style="clip-path: url(#clip-path-2)">
+            <path d="M197.78,101A96.78,96.78,0,1,1,101,4.21,96.81,96.81,0,0,1,197.78,101M112.86,19.91a72.66,72.66,0,1,0,72.69,72.63,72.65,72.65,0,0,0-72.69-72.63m-2.8,13.47a62,62,0,1,0,62,62.05,62,62,0,0,0-62-62M96.47,145.93a41.19,41.19,0,1,1,41.21-41.17,41.21,41.21,0,0,1-41.21,41.17" transform="translate(0 0)" style="fill: #065482"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
